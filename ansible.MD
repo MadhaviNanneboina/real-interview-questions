@@ -8,3 +8,5 @@
 * Ansible host ping is success but I am not able to execute playbooks why? 
 * Have you ever used vault? how it works?
 * What is ansible role?
+* how to run playbook?
+* what is a run book?
